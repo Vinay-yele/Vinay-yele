@@ -32,10 +32,7 @@
   - MySQL, MongoDB
 
 ---
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=vinayyele1998)
-
+![](https://leetcard.jacoblin.cool/vinayyele1998?ext=heatmap)
 
 
 ### Connect with Me
