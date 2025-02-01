@@ -33,7 +33,8 @@
 
 ---
 [![GFG Streak Stats](https://gfg-streak-stats.onrender.com/?user=vinay_yele)](https://gfgstatscard.vercel.app/)
-
+<img src="https://gfgstatscard.vercel.app/<vinay_yele>" alt="GFG stats" />
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<vinay_yele>)](<[YOUR_LINK_HERE](https://www.geeksforgeeks.org/user/vinay_yele/)>)
 
 ### Connect with Me
 
