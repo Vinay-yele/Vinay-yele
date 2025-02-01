@@ -31,8 +31,8 @@
 - **Databases:**
   - MySQL, MongoDB
 
----
-[![Vinay Yele's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<vinay_yele>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+---[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/api?user=vinay_yele)](https://www.geeksforgeeks.org/user/vinay_yele/)
+
 
 ### Connect with Me
 
