@@ -32,7 +32,7 @@
   - MySQL, MongoDB
 
 ---
-![GFG Streak Stats](https://gfg-streak-stats.onrender.com/?user=vinay_yele)
+[![GFG Streak Stats](https://gfg-streak-stats.onrender.com/?user=vinay_yele)](https://gfgstatscard.vercel.app/)
 
 
 ### Connect with Me
