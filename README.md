@@ -32,7 +32,6 @@
   - MySQL, MongoDB
 
 ---
-![](https://leetcard.jacoblin.cool/vinayyele1998?ext=heatmap)
 
 
 ### Connect with Me
