@@ -32,6 +32,7 @@
   - MySQL, MongoDB
 
 ---
+![GFG Streak Stats](https://gfg-streak-stats.onrender.com/?user=vinay_yele)
 
 
 ### Connect with Me
